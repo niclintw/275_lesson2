@@ -1,5 +1,5 @@
 # Hello World!!!
 
-'''
-puts 'hello world!'
-'''
+```ruby
+puts 'Hello world!'
+```
